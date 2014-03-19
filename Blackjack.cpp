@@ -21,6 +21,7 @@
 #include <iostream>
 #include <vector>
 #include <sstream>
+#include <unistd.h>
 
 #include "Table.hpp"
 #include "Croupier.hpp"
